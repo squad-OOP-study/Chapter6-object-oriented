@@ -97,7 +97,8 @@
 - 서비스 로케이터는 어플레이케이션에서 필요로 하는 객체를 제공하는 책임을 갖는다.
 - locator.getJobQueue()가 어떤 객체를 리턴해야 할지에 대해 ServiceLocator가 알 수 있어야 한다.
 - 서비스 로케이터를 사용하는 경우에도 **메인영역에서 서비스로 케이터가 제공할 객체를 초기화** 해준다. 
-- <img src="./그림6-6.jpg" width="60%">
+- <img src="https://user-images.githubusercontent.com/55780251/155865198-0c812879-7ac8-4d66-b172-b2af609c8b7b.jpg" width="60%">
+
 
 > 서비스 로케이터 구현 방법
 1. 객체 등록 방식
